@@ -1,0 +1,10 @@
+
+GET https://api.airtable.com/v0/appWottkuts50x4xO/ToDoTable
+Authorization: Bearer patmMoL9dNRlRBYlS.8233b70fcc44e828f5355441457f76c1e7009afbecd532a9f6f78803e5185ce7
+
+
+POST  https://api.airtable.com/v0/appWottkuts50x4xO/ToDoTable
+Authorization: Bearer patmMoL9dNRlRBYlS.8233b70fcc44e828f5355441457f76c1e7009afbecd532a9f6f78803e5185ce7
+
+
+
